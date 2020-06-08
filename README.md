@@ -3,9 +3,11 @@
 ### 리액트로 SNS 웹사이트 만들기 ###
 - React + Redux + Next js <br>
 - Next js 버전 업데이트에 맞추어 지속적으로 토이프로젝트를 제작하여, 라이브러리를 되짚어보는 기회를 가지고 있습니다.
+- 타겟 버전 : Next js 9.x  / React-redux 7.x
 - 실습 참고 자료 : https://www.inflearn.com/instructors/14793/courses
 <br> 
 <br>
+
 #### Next js 도입 ####
 >독자적 라우팅 시스템으로 손쉽게 서버사이드 랜더링 환경 구축이 가능하기 때문에,
 버전 업데이트에 맞추어 지속적으로 스터디를 진행하고있습니다.
